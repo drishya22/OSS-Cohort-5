@@ -4,7 +4,7 @@ Hi, my name is Drishya Garg!
 I am a passionate developer currently working on Machine Learning and Data Science. I have experience in Python and SQL.
 
 ## GitHub
-You can find me on GitHub at [drishya22](www.github.com/drishya22)
+You can find me on GitHub at https://github.com/drishya22
 
 ## Interests
 Some of my interests include Artificial Intelligence,NLP and Open Source Contribution.
